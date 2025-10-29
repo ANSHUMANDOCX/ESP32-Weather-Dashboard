@@ -21,3 +21,14 @@ stil figuring out how the the enclosure would look.....
 
   
 
+## 10/29/2025 - Completed the PCB and Schematic   
+
+Soo looked at datasheet look at multiple references online and made the schematic.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ffe2d3045c8a3b524028cff54aa75074f7827b74/image.png)
+
+started the PCB right away and spend a considerable amt of time routing it and make it look as clean as possible . i would say i like the look of it clean and compact. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--723e992f087ce43b1f285b93b47ad11daf4693c5/image.png)
+
+after will start with the cad
+  
+
