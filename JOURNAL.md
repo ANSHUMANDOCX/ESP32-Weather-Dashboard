@@ -32,3 +32,19 @@ started the PCB right away and spend a considerable amt of time routing it and m
 after will start with the cad
   
 
+## 10/30/2025 - Completed the CAD  
+
+made a few minor changes to the PCB, added Mounting holes 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5851c8223446abc6856b17e6c64c959f45c733a0/image.png)
+
+
+then started out with the cad and completed it. Its a two part model.
+The PCB will be attached onto the Bottom plate 
+
+also i will be using a EPD extension board that just increases the ribbon length that i already have with me.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--dee1cbea92dd75b7ffefbdf9495a5467b9ae166c/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8c62a22cdf8dbb96071f454b8475662c1a60b63/image.png)
+  
+
