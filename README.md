@@ -18,4 +18,5 @@ It fetches the Data over wifi also it is very low power and efficent.
 |Part|Supplier|Cost|LINK|
 |----|--------|----|----|
 |4.2 inch EPD|ROBU|$26.98|https://robu.in/product/4-2-inch-high-refresh-rate-black-and-white-e-paper-display/|
-|total||$27||
+|PCB|JLCPCB|$10.64|||
+|total||$37.64||
